@@ -1,6 +1,8 @@
 body {
   background-color: #e7edde;
+  font-family: "Playfair Display", serif;
 }
+
 .weather-app {
   background: #e7edde;
   max-width: 600px;
